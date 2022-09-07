@@ -2,7 +2,7 @@
 
 ### 你好, 世界 👋
 
-- 🔭 软件工程大二学生
+- 🔭 软件工程大三学生
 - 🌱 比较擅长Android/后端/嵌入式
 - 🎮 喜欢Minecraft, Warcraft和RPG游戏
 - 📧 联系方式: wc@mail.dawncraft.cc
@@ -16,5 +16,5 @@
 - Android
 - 前端: Vue.js, Bootstrap
 - 后端: Koa, SpringBoot
-- 嵌入式: 8051, STM32, ESP32, Arduino
+- 嵌入式: 8051, STM32, ESP8266/ESP32, Arduino
 - 游戏: Cocos2D Creator, Unity
