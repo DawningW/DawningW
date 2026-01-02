@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=DawningW&show_icons=true" />
+<img align="right" src="./images/stats.svg" />
 
 ### 你好, 世界 👋
 
@@ -11,7 +11,7 @@
 
 ### 技术栈 🛠
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawningW&layout=compact&langs_count=4&hide=C,HTML,Assembly&exclude_repo=The-end-war" />
+<img align="right" src="./images/top-langs.svg" />
 
 - 编程语言: C, Java, JavaScript, Python, C#, C++
 - Android
